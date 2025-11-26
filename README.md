@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Type-Flow
-=======
+
 # Type Flow
 
 A modern, feature-rich typing speed test application built with React and TypeScript.
