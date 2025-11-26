@@ -65,4 +65,3 @@ npm run build
 ## License
 
 This project is private and proprietary.
->>>>>>> 88c2ac3 (Initial commit: Type Flow typing speed test application)
