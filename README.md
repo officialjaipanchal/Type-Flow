@@ -3,8 +3,8 @@
 
 A modern, feature-rich typing speed test application built with React and TypeScript.
 
-![Home](<img width="1439" height="859" alt="TypeFlow" src="https://github.com/user-attachments/assets/6e1b4968-5db5-4d9b-889f-81f5b953bf59" />
-)
+<img width="1439" height="859" alt="TypeFlow" src="https://github.com/user-attachments/assets/a7b57f73-23f7-41c6-a6a6-2fbb9086945a" />
+
 
 ## Features
 
